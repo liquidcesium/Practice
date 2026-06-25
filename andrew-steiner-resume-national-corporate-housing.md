@@ -18,10 +18,10 @@ AI Adoption & Governance · Automation · Cloud Infrastructure (Azure / M365) ·
 
 Lead all technology for a 550-employee, 25-location commercial vehicle sales, service, and rental/leasing business (~$1.1B revenue). Report to executive leadership and present quarterly to the CEO, COO, CRO, President, and CFO.
 
-- Drive the company's AI and automation agenda — personally build production internal apps, integration middleware, and data tools using Claude and Claude Code, delivering in days what once required six-figure consulting; established responsible-use standards for AI across the organization.
+- Lead the company's AI and automation agenda — prototyping solutions hands-on, then partnering with the team to productionize and operate them: internal apps, integration middleware, and data tools (built with Claude and Claude Code) that deliver in days what once required six-figure consulting. Established responsible-use standards for AI across the organization.
 - Built the IT, ERP, and BI function from the ground up; today lead a 7-person team — 12 at peak, leaner now through automation — and a $2.5M technology budget while supporting 300% business growth.
 - Migrated on-premise infrastructure to Microsoft Azure over 18 months, cutting infrastructure cost ~20%; administer a multi-tenant Microsoft 365 environment spanning multiple legal entities.
-- Built a cybersecurity program from the ground up — NIST-aligned, with managed MDR / EDR / SIEM, Intune endpoint management, backup & DR, and security-awareness training — reducing high-risk users from 40% to 18% with zero major incidents since.
+- Built a cybersecurity program from the ground up — NIST-aligned, with managed MDR / EDR / SIEM, Intune endpoint management, backup & DR, and security-awareness training — reducing high-risk users from 40% to under 10% with zero major incidents since.
 - Modernized infrastructure across 25+ sites: a $350K Cisco Meraki network (firewall, switching, wireless, SD-WAN), cloud VoIP replacing legacy PBX, mobile device management, and co-managed cloud physical security.
 - Led 5 M&A technology integrations and a 12-month enterprise DMS migration across all locations, end to end (systems, network, VoIP cutover).
 - Consolidated 15 systems into a single SQL data warehouse with 6 executive Power BI dashboards; manage vendor relationships and contracts across the full stack, repeatedly negotiating improved terms and bringing services in-house for 10%+ savings.
