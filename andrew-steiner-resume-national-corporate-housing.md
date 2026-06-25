@@ -19,7 +19,7 @@ AI Adoption & Governance · Automation · Cloud Infrastructure (Azure / M365) ·
 Lead all technology for a 550-employee, 25-location commercial vehicle sales, service, and rental/leasing business (~$1.1B revenue). Report to executive leadership and present quarterly to the CEO, COO, CRO, President, and CFO.
 
 - Drive the company's AI and automation agenda — personally build production internal apps, integration middleware, and data tools using Claude and Claude Code, delivering in days what once required six-figure consulting; established responsible-use standards for AI across the organization.
-- Built and scaled the IT organization from 2 to 35 people at peak (now 7 through automation-driven right-sizing) and managed budgets up to $4M while the business grew 300%.
+- Built the IT, ERP, and BI function from the ground up; today lead a 7-person team — 12 at peak, leaner now through automation — and a $2.5M technology budget while supporting 300% business growth.
 - Migrated on-premise infrastructure to Microsoft Azure over 18 months, cutting infrastructure cost ~20%; administer a multi-tenant Microsoft 365 environment spanning multiple legal entities.
 - Built a cybersecurity program from the ground up — NIST-aligned, with managed MDR / EDR / SIEM, Intune endpoint management, backup & DR, and security-awareness training — reducing high-risk users from 40% to 18% with zero major incidents since.
 - Modernized infrastructure across 25+ sites: a $350K Cisco Meraki network (firewall, switching, wireless, SD-WAN), cloud VoIP replacing legacy PBX, mobile device management, and co-managed cloud physical security.
