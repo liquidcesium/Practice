@@ -18,7 +18,8 @@ AI Adoption & Governance · Automation · Cloud Infrastructure (Azure / M365) ·
 
 Lead all technology for a 550-employee, 25-location commercial vehicle sales, service, and rental/leasing business (~$1.1B revenue). Report to executive leadership and present quarterly to the CEO, COO, CRO, President, and CFO.
 
-- Lead the company's AI and automation agenda — prototyping solutions hands-on, then partnering with the team to productionize and operate them: internal apps, integration middleware, and data tools (built with Claude and Claude Code) that deliver in days what once required six-figure consulting. Established responsible-use standards for AI across the organization.
+- Own the company's AI strategy and governance — drove enterprise adoption and administration of Microsoft Copilot, ChatGPT Enterprise, and Claude Business, and authored the organization's AI governance and security policy and framework.
+- Stay hands-on alongside the strategy: personally prototype solutions, then partner with the team to productionize and operate them — internal apps, integration middleware, and data tools (built with Claude and Claude Code) that deliver in days what once required six-figure consulting.
 - Built the IT, ERP, and BI function from the ground up; today lead a 7-person team — 12 at peak, leaner now through automation — and a $2.5M technology budget while supporting 300% business growth.
 - Migrated on-premise infrastructure to Microsoft Azure over 18 months, cutting infrastructure cost ~20%; administer a multi-tenant Microsoft 365 environment spanning multiple legal entities.
 - Built a cybersecurity program from the ground up — NIST-aligned, with managed MDR / EDR / SIEM, Intune endpoint management, backup & DR, and security-awareness training — reducing high-risk users from 40% to under 10% with zero major incidents since.
@@ -28,7 +29,7 @@ Lead all technology for a 550-employee, 25-location commercial vehicle sales, se
 - Manage vendor relationships and contracts across the full technology stack — negotiating improved terms and bringing services in-house for 10%+ savings.
 
 ### Service Systems Manager · Model 1 (Creative Bus Sales)
-*2016 – 2018 · Elkhart, IN*
+*2016 – 2018 · Chino, CA*
 
 Built the service-operations systems and reporting that became the foundation for the company's enterprise IT function.
 
@@ -50,8 +51,8 @@ Led production and quality control for alternative-fuel vehicle systems.
 ## Technical Environment
 
 - **Cloud & Identity:** Microsoft Azure, Microsoft 365, Entra ID, Intune, Windows Server
-- **Security:** Rapid7 MDR/SIEM, Microsoft Defender · NIST, PCI DSS, GLBA, CCPA
+- **Security:** Rapid7 MDR/SIEM, Microsoft Defender, Check Point email security · NIST, PCI DSS, GLBA, CCPA
 - **Network & Telephony:** Cisco Meraki (SD-WAN), Zoom Phone
-- **Data & BI:** SQL Server, SSRS, Power BI, ETL/ELT pipelines, Python
-- **Enterprise Apps:** Excede DMS, HubSpot CRM
-- **AI & Automation:** Claude, Claude Code, Power Automate
+- **Data & BI:** SQL Server, SSRS, Power BI, ETL/ELT (Fivetran, Hightouch), Python
+- **Enterprise Apps & SaaS:** Excede DMS, HubSpot CRM, Aircall, ZoomInfo + 10 more industry SaaS platforms
+- **AI & Automation:** Microsoft Copilot, ChatGPT Enterprise, Claude Business, Claude Code, Power Automate
