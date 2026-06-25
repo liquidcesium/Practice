@@ -23,8 +23,9 @@ Lead all technology for a 550-employee, 25-location commercial vehicle sales, se
 - Migrated on-premise infrastructure to Microsoft Azure over 18 months, cutting infrastructure cost ~20%; administer a multi-tenant Microsoft 365 environment spanning multiple legal entities.
 - Built a cybersecurity program from the ground up — NIST-aligned, with managed MDR / EDR / SIEM, Intune endpoint management, backup & DR, and security-awareness training — reducing high-risk users from 40% to under 10% with zero major incidents since.
 - Modernized infrastructure across 25+ sites: a $350K Cisco Meraki network (firewall, switching, wireless, SD-WAN), cloud VoIP replacing legacy PBX, mobile device management, and co-managed cloud physical security.
-- Led 5 M&A technology integrations and a 12-month enterprise DMS migration across all locations, end to end (systems, network, VoIP cutover).
-- Consolidated 15 systems into a single SQL data warehouse with 6 executive Power BI dashboards; manage vendor relationships and contracts across the full stack, repeatedly negotiating improved terms and bringing services in-house for 10%+ savings.
+- Led the enterprise DMS implementation — the company's core operational platform — across accounting, vehicle sales, parts, and service: configuration, data migration, testing, and cross-functional change management at 25+ locations. Also led 5 M&A technology integrations end to end.
+- Built the company's data warehouse and lakehouse from scratch — engineering ETL/ELT pipelines that unified 15 source systems — and delivered layered executive and operational dashboards and reporting in Power BI and SSRS.
+- Manage vendor relationships and contracts across the full technology stack — negotiating improved terms and bringing services in-house for 10%+ savings.
 
 ### Service Systems Manager · Model 1 (Creative Bus Sales)
 *2016 – 2018 · Elkhart, IN*
@@ -51,5 +52,6 @@ Led production and quality control for alternative-fuel vehicle systems.
 - **Cloud & Identity:** Microsoft Azure, Microsoft 365, Entra ID, Intune, Windows Server
 - **Security:** Rapid7 MDR/SIEM, Microsoft Defender · NIST, PCI DSS, GLBA, CCPA
 - **Network & Telephony:** Cisco Meraki (SD-WAN), Zoom Phone
-- **Data & Applications:** SQL Server, Power BI, HubSpot CRM, Excede DMS, Python
+- **Data & BI:** SQL Server, SSRS, Power BI, ETL/ELT pipelines, Python
+- **Enterprise Apps:** Excede DMS, HubSpot CRM
 - **AI & Automation:** Claude, Claude Code, Power Automate
